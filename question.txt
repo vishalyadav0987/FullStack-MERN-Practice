@@ -1,0 +1,93 @@
+Great! Since you've chosen **Full Stack** (i.e. **Frontend + Backend**), here's a list of **only Full Stack development-related questions** (no pure DSA/OOP). These questions involve real-world scenarios where **React (frontend)** talks to **Node.js/Express (backend)** and possibly uses **MongoDB**.
+
+---
+
+## ✅ **Top 50 Full Stack Developer Assessment Questions (React + Node.js + MongoDB)**
+
+🕒 All can be attempted within a 3-hour assessment (2 medium or 1 large + 1 small)
+
+---
+
+### 🔧 1–20: Full Stack Mini Projects / Features (Realistic & Practical)
+
+1. Build a Todo App with login/signup and save todos in DB.
+2. Notes App: CRUD with tags, filtering & user auth.
+3. Blog Platform: users can post blogs, read others, comment.
+4. Create a Task Tracker: Assign tasks to team members.
+5. Job Portal: Post jobs (admin), apply jobs (user).
+6. Create a Book Store with cart functionality.
+7. Build an Expense Tracker with category filter & monthly view.
+8. Design a Feedback System for products.
+9. Poll/Voting App with result chart.
+10. Appointment Scheduler (time slot + doctor selection).
+11. Library Management System: issue & return books.
+12. Restaurant menu ordering system with cart & bill.
+13. Movie Rating System with star rating and reviews.
+14. Create a Chat App (polling version).
+15. Event Booking App with date-based filtering.
+16. Product Wishlist + Cart System.
+17. Online Quiz App with score tracking.
+18. E-learning dashboard with course progress & modules.
+19. CRUD Admin Panel: Add/edit/delete users with roles.
+20. File Upload System with cloud storage (Cloudinary/S3).
+
+---
+
+### 🧩 21–30: API + Frontend Integration Tasks
+
+21. Create a REST API for user auth + JWT.
+22. Build React UI to call above APIs (login/register).
+23. Create a form to submit data → backend → save to DB.
+24. Fetch list from backend & render it in table with search.
+25. Build dynamic dropdowns (e.g. country → states) using backend data.
+26. Create notification system (mark as read/unread).
+27. Filter and sort products from backend using query params.
+28. Pagination logic (React frontend + backend API).
+29. Build "like/unlike" post feature using user ID.
+30. Upload image from React form → backend → Cloudinary.
+
+---
+
+### 🎯 31–40: Auth & User Management (Essential for Full Stack)
+
+31. Signup/login using bcrypt and JWT (Node.js).
+32. Store JWT in HttpOnly cookie and verify on protected routes.
+33. React: Create a private route using `useEffect` + token check.
+34. Build Forgot Password flow (with email token).
+35. Google Login integration (React + backend).
+36. Role-based access control (Admin vs User dashboards).
+37. Logout & session handling in React + backend.
+38. Prevent duplicate signups using email check.
+39. Middleware for checking JWT on protected routes.
+40. Show logged-in user info in navbar dynamically.
+
+---
+
+### 📂 41–45: Project Structure & Clean Code
+
+41. Folder structure of a clean MERN app (split backend & frontend).
+42. Create `.gitignore` with node\_modules, .env, dist, etc.
+43. Use `dotenv` to manage API keys/secrets.
+44. Create and use React Context for global auth state.
+45. Use custom error handler middleware in Express.
+
+---
+
+### 🚀 46–50: Bonus (Deployment / Extras / Testing)
+
+46. Add environment switching (dev vs prod) in frontend/backend.
+47. Use `axios` interceptor for adding auth token to requests.
+48. Create loading & error state UI in React during API calls.
+49. Host backend on Render and frontend on Vercel/Netlify.
+50. Connect to MongoDB Atlas securely using Mongoose.
+
+---
+
+📌 These are **realistic**, **testable**, and **interview-worthy** questions strictly focused on **Full Stack (React + Express + MongoDB)**.
+You can expect **2 of these** in your test (e.g., one CRUD + one Auth/API integration problem).
+
+Want me to pick any 2 now and give you a full problem statement like your assessment?
+
+
+
+Ate hai: 1,2,3,5,6,7,10,11,12,13,16,18,19,20,21,22,23,26,29,30,31,32,33,34,36,37,38,39,40
